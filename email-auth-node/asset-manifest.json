@@ -1,29 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.3fa44729.chunk.css",
-    "main.js": "/static/js/main.192acd00.chunk.js",
-    "main.js.map": "/static/js/main.192acd00.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.228c1597.js",
-    "runtime-main.js.map": "/static/js/runtime-main.228c1597.js.map",
-    "static/js/2.e1abbe84.chunk.js": "/static/js/2.e1abbe84.chunk.js",
-    "static/js/2.e1abbe84.chunk.js.map": "/static/js/2.e1abbe84.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.3fa44729.chunk.css.map": "/static/css/main.3fa44729.chunk.css.map",
-    "static/js/2.e1abbe84.chunk.js.LICENSE.txt": "/static/js/2.e1abbe84.chunk.js.LICENSE.txt",
-    "static/media/configFile.eb694bbb.png": "/static/media/configFile.eb694bbb.png",
-    "static/media/dart.17c375e7.png": "/static/media/dart.17c375e7.png",
-    "static/media/flutterMain.22254245.png": "/static/media/flutterMain.22254245.png",
-    "static/media/flutterRootConfig.b3633036.png": "/static/media/flutterRootConfig.b3633036.png",
-    "static/media/folderStructure.397bb5d3.png": "/static/media/folderStructure.397bb5d3.png",
-    "static/media/herokuDeploy.647a5abb.png": "/static/media/herokuDeploy.647a5abb.png",
-    "static/media/herokuDeployServer.cfe40062.png": "/static/media/herokuDeployServer.cfe40062.png",
-    "static/media/herokuconfig.b4d33568.png": "/static/media/herokuconfig.b4d33568.png",
-    "static/media/step-1.fc48b48c.png": "/static/media/step-1.fc48b48c.png"
+    "main.css": "./static/css/main.3fa44729.chunk.css",
+    "main.js": "./static/js/main.c971afcd.chunk.js",
+    "main.js.map": "./static/js/main.c971afcd.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.b8601918.js",
+    "runtime-main.js.map": "./static/js/runtime-main.b8601918.js.map",
+    "static/js/2.e1abbe84.chunk.js": "./static/js/2.e1abbe84.chunk.js",
+    "static/js/2.e1abbe84.chunk.js.map": "./static/js/2.e1abbe84.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.3fa44729.chunk.css.map": "./static/css/main.3fa44729.chunk.css.map",
+    "static/js/2.e1abbe84.chunk.js.LICENSE.txt": "./static/js/2.e1abbe84.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.228c1597.js",
+    "static/js/runtime-main.b8601918.js",
     "static/js/2.e1abbe84.chunk.js",
     "static/css/main.3fa44729.chunk.css",
-    "static/js/main.192acd00.chunk.js"
+    "static/js/main.c971afcd.chunk.js"
   ]
 }
